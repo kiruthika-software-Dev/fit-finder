@@ -1,5 +1,4 @@
 # fit-finder 
-Here’s a **clean, professional, GitHub-ready README** for your **Smart Fashion Recommender Application**, based on the content you shared. I’ve formatted headings properly, added bold, and structured it for readability:
 
 ---
 
