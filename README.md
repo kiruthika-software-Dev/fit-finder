@@ -102,5 +102,3 @@ Fork → Clone → Create Branch → Commit → Pull Request
 * 🌐 Build a **web dashboard** with analytics and user insights
 
 
-Do you want me to do that?
-```
