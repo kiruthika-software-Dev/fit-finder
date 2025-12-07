@@ -1,5 +1,4 @@
 
-````md
 # 🏃‍♂️ Fit Finder
 An AI-powered fashion recommendation system that suggests outfits to users based on preferences, visual compatibility, and fashion trends. Fit Finder leverages deep learning to understand style patterns, user preferences, and visual compatibility of clothing items.
 
@@ -79,7 +78,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-> Access the web interface (Flask) at: `http://127.0.0.1:5000/`
+
 
 ---
 
