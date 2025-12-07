@@ -1,8 +1,6 @@
-# fit-finder 
 
----
 
-# 🛍️ Smart Fashion Recommender Application
+# 🛍️ fit-finder
 
 An AI-powered fashion recommendation system that suggests outfits to users based on preferences, visual compatibility, and fashion trends.
 
